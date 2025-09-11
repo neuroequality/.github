@@ -104,8 +104,8 @@ All projects in this organization are open source under:
 
 ## ✉️ Contact & Support
 
-- 💬 Email: [hello@neuroequality.org](mailto:hello@neuroequality.org)  
-- 🧠 Website: [https://neuroequality.org](https://neuroequality.org)  
+- 💬 Email: [hello@neuroequality.com](mailto:hello@neuroequality.com)  
+- 🧠 Website: [https://neuroequality.com](https://neuroequality.com)  
 - 🗨️ Collaborations, grants, and partnerships are welcome.
 
 ---
