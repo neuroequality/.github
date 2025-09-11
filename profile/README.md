@@ -10,7 +10,7 @@ Our vision is to **empower people with autism, ADHD, dyslexia, and other cogniti
 
 ## 🌐 Website
 
-Visit us at **[https://neuroequality.org](https://neuroequality.org)**  
+Visit us at **[https://neuroequality.com](https://neuroequality.com)**  
 → Explore programs, tools, and our community mission.
 
 ---
